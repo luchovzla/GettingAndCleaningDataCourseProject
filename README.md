@@ -11,4 +11,5 @@ After this, the variables related to average and standard deviation are extracte
 observations are labeled according to their activity ID. 
 
 Finally, the data is summarized, grouped by subject ID and activity label, and the 
-variables are averaged to create a second, tidy data set, which is displayed on screen.
+variables are averaged to create a second, tidy data set, which is displayed on screen
+and saved to .csv and .txt formats.
